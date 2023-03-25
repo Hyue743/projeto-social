@@ -24,14 +24,13 @@ section#telefone{
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -35%);
     background-color: blue;
     background: url('../imagens/frame-iphone.png') no-repeat;
 }
 
 section#redes-sociais > a > img{
     width: 50px;
-    margin: 10px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.400);
     box-sizing: border-box;
