@@ -24,8 +24,7 @@ section#telefone{
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -35%);
-    background-color: blue;
+    transform: translate(-50%, -40%);
     background: url('../imagens/frame-iphone.png') no-repeat;
 }
 section#redes-sociais{
